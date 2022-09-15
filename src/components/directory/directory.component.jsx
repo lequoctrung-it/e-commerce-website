@@ -23,15 +23,15 @@ const categories = [
   },
   {
     id: 4,
-    title: "women",
+    title: "womens",
     imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
-    route: "shop/women",
+    route: "shop/womens",
   },
   {
     id: 5,
-    title: "men",
+    title: "mens",
     imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
-    route: "shop/men",
+    route: "shop/mens",
   },
 ];
 
